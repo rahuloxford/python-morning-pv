@@ -1,0 +1,36 @@
+variable
+datatypes
+[int, float, str, bool]
+comments
+strings
+type casting
+operators
+user input
+if else
+if else ladder
+while loops
+
+upcoming:
+collection
+[list, tuple, set, dict, range]
+for loop
+
+function
+parameter & arguments
+types of arguments
+scope
+recursion
+lambda functions
+
+object oriented programming
+classes & objects
+constructors (__init__)
+self
+pillar of OOPs
+inheritance, polymorphism, encapsulation
+
+methods of
+strings, list, tuple, set
+
+file handling
+exception handling (try..except)

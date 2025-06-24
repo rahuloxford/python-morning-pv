@@ -1,0 +1,10 @@
+# precedence in operators
+
+()
+**
+*  /  //  %
++  -
+==  !=  >  >=  <  <=  is  is not  in  not in 
+not
+and
+or
