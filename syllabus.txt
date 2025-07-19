@@ -9,18 +9,19 @@ user input
 if else
 if else ladder
 while loops
-
-upcoming:
 collection
 [list, tuple, set, dict, range]
 for loop
 
+upcoming:
 function
 parameter & arguments
 types of arguments
 scope
 recursion
 lambda functions
+
+modules & packages
 
 object oriented programming
 classes & objects
