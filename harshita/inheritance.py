@@ -4,7 +4,7 @@ class Person:
         self.lname = lname
         self.age = age
 
-    def printname(self):
+    def details(self):
         return f"{self.fname} {self.lname}"
 
 
@@ -14,10 +14,10 @@ class Student(Person):
         self.semester = semester
         self.fees = fees
 
-    def student_details(self):
-        print(f"{self.printname()} is {self.age}")
+    def details(self):
+        print(f"{self.details()} is {self.age}")
         print(f"In semester {self.semester} and his fees is {self.fees}")
 
 mohan = Student("Mark", "Olsen", 28, 3, 40000)
-mohan.student_details()
+mohan.details()
 
